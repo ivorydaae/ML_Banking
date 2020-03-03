@@ -1,2 +1,41 @@
-# ML_Banking
-Machine Learning Project - customer target and expected revenue in banks
+## Machine Learning Project- customer target and expected revenue in banks
+#### By Ivory YAHSUAN TAI  |  Data Scientist  |  Master Student in Data Science in EMLyon Business School  
+
+### Project Links
+Jupiter Notebook link: https://ivorydaae.github.io/ML_Banking/#index  
+Github link: https://github.com/ivorydaae/ML_Banking
+
+### Contact
+If you have further suggestions with this project, or you would like to contact me for opportunities, don't hesitate to contact me.     
+
+> **Ivory YAHSUAN TAI**   
+> *Based in Paris, France*     
+> *Data Scientist  |  Master Student in Data Science in EMLyon Business School*    
+> * **E-mail:** yahsuan.tai@sciencespo.fr    
+> * **Phone:** +33 6 10 91 14 15    
+> * **LinkedIn:** https://www.linkedin.com/in/yahsuantai/  
+> * **Github:** https://github.com/ivorydaae/   
+    
+### Project Sumamary
+Use customer data in banking to maximize revenue from marketing campaigns.
+
+### Purpose
+The purpose of this project is to choose 100 clients of the bank to sell them one of the three offers in bank (Mutual Funds, Credit Card, Consumer Loan) to maximize the predicted revenue for the bank by using machine learning approaches.  
+
+### Data   
+For the analysis, I use the data “DMML_Project_Dataset.xlsx”.    
+The excel file contains several tables (on 4 excel sheets):    
+§ Social-demographical data (client ID, age, gender, tenure in a bank)  
+§ Products and actual balance (current account, saving account, mutual funds, overdraft,
+credit card, consumer loan)  
+§ Inflow/outflow on C/A, aggregated card turnover (monthly average over past 3
+months)    
+§ Clients actual sales and revenues. Data is available for 60 % of the clients.  
+
+### Conditions:   
+The bank has capacity to contact around 100 clients with a marketing offer and each client can be targeted only once (you can't retarget).  
+
+### Expected result:   
+§ Which clients are to be targeted with which offer?    
+§ What would be the expected revenue based on your strategy?    
+
